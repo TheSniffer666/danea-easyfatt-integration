@@ -1,0 +1,19 @@
+{
+    "name": "lucap/danea-easyfatt-integration",
+    "description": "Laravel package for integrating Danea Easyfatt",
+    "type": "library",
+    "license": "None",
+    "autoload": {
+        "psr-4": {
+            "Lucap\\DaneaEasyfattIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luca Palma",
+            "email": "lucapalma2002@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
