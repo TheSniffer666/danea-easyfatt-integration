@@ -1,11 +1,11 @@
 {
-    "name": "lucap/danea-easyfatt-integration",
+    "name": "lucap/danea-easyfatt",
     "description": "Laravel package for integrating Danea Easyfatt",
     "type": "library",
     "license": "None",
     "autoload": {
         "psr-4": {
-            "Lucap\\DaneaEasyfattIntegration\\": "src/"
+            "Lucap\\DaneaEasyfatt\\": "src/"
         }
     },
     "authors": [
